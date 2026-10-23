@@ -2,7 +2,7 @@
 
 An end-to-end data analytics and business intelligence project using **Python (Pandas)** for ETL/feature engineering and **Power BI (DAX)** for executive dashboarding.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](/Images/Pizza_Sales_Dashboard.png)
 
 ---
 
